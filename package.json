@@ -1,0 +1,17 @@
+{
+  "name": "capitalizar",
+  "version": "1.0.7",
+  "description": "Capitalizar titulos en español",
+  "main": "index.js",
+  "scripts": {
+    "test": "ava"
+  },
+  "author": "Fabio Espinosa",
+  "license": "MIT",
+  "dependencies": {
+    "capitalize": "^2.0.3"
+  },
+  "devDependencies": {
+    "ava": "^2.2.0"
+  }
+}
